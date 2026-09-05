@@ -22,7 +22,7 @@ This file contains important resources, databases, and surveys related to the pr
 - **Fink Solar System** — Service for retrieving ZTF observations  
   https://doc.ztf.fink-broker.org/services/search/solar_system/
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. Databases and Surveys
 
@@ -35,7 +35,7 @@ https://www.lsst.org/
 
 It repeatedly observes the sky and records the position and brightness of moving objects, including asteroids.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Zwicky Transient Facility (ZTF)
 
@@ -52,7 +52,7 @@ ZTF repeatedly observes the sky and can detect asteroids, measure their position
 - Uses the **1.2 m Samuel Oschin Telescope**
 - Surveys mainly the **Northern sky**
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Minor Planet Center (MPC)
 
@@ -65,7 +65,7 @@ The **Minor Planet Center (MPC)** is the official global organization/database f
 - Meteoroids
 - Comets
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ATLAS
 
@@ -76,7 +76,7 @@ https://atlas.fallingstar.com/
 
 It is a NASA-funded telescope survey designed to detect asteroids and other objects that could potentially come close to or impact Earth, with an emphasis on providing early warning.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 3. LSST / Rubin Observatory vs. ZTF
 
