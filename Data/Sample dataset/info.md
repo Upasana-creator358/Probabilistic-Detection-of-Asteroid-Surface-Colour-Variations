@@ -22,4 +22,3 @@ For a later real-data study, the possible inputs are:
 - asteroid-Sun and asteroid-observer geometry;
 - observation times corrected for light travel time.
 
-No real asteroid sample has been selected in this repository yet.
