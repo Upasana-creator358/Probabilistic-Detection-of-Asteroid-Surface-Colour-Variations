@@ -10,6 +10,7 @@ Asteroids reflect sunlight. Their measured brightness changes because of their d
 
 Humes and Agarwal use simulated brightness measurements in two filters. They compare these measurements with the brightness predicted for an asteroid whose surface has the same colour everywhere.
 
+
 The difference is called a residual:
 
 ```text
