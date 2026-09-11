@@ -10,7 +10,6 @@ Asteroids reflect sunlight. Their measured brightness changes because of their d
 
 Humes and Agarwal use simulated brightness measurements in two filters. They compare these measurements with the brightness predicted for an asteroid whose surface has the same colour everywhere.
 
-
 The difference is called a residual:
 
 ```text
@@ -21,11 +20,10 @@ If the residual changes with the side of the asteroid facing the observer, and t
 
 ## Relevant software
 
-- [DAMIT](https://damit.cuni.cz/) provides asteroid shape and spin models.
-- [lcgenerator](https://damit.cuni.cz/projects/damit/pages/software_download) generates predicted light curves from DAMIT models.
-- [Fink/ZTF](https://doc.ztf.fink-broker.org/services/search/solar_system/) provides real ZTF asteroid observations.
-- [Kete](https://dahlend.github.io/kete/index.html) and [Miriade](https://ssp.imcce.fr/webservices/miriade/) provide positions and observing geometry.
-- [Phunk](https://phunk.readthedocs.io/en/latest/) fits asteroid phase functions.
+* [DAMIT](https://damit.cuni.cz/) provides asteroid shape and spin models.
+* [lcgenerator](https://damit.cuni.cz/projects/damit/pages/software_download) generates predicted light curves from DAMIT models.
+* [Fink/ZTF](https://doc.ztf.fink-broker.org/services/search/solar_system/) provides real ZTF asteroid observations.
+* [Kete](https://dahlend.github.io/kete/index.html) and [Miriade](https://ssp.imcce.fr/webservices/miriade/) provide positions and observing geometry.
+* [Phunk](https://phunk.readthedocs.io/en/latest/) fits asteroid phase functions.
 
 These tools will be studied before they are used for the real-data extension.
-
